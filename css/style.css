@@ -1,0 +1,69 @@
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    border: 5px solid rgb(176, 55, 55);
+    background-color: rgb(255, 157, 157);
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    box-shadow: 1px 1px 3px 1px #03182e;
+}
+
+p {
+    color: rgb(49, 49, 49);
+    border: 3px solid rgb(176, 55, 55);
+    padding: 1%;
+    box-shadow: 1px 1px 3px 1px #2e0303;
+    font-family: monospace;
+    font-size: 125%;
+}
+
+
+body {
+    background-color: rgb(196, 234, 252);
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+    height: auto;
+    padding: 5%;
+    
+}
+
+h1 {
+    text-align: center;
+    color: rgb(49, 49, 49);
+    padding: 1%;
+    font-family: monospace;
+    font-size: 200%;
+}
+
+footer {
+    border: 5px solid rgb(176, 55, 55);
+    background-color: rgb(255, 157, 157);
+    box-shadow: 1px 1px 3px 1px #03182e;
+}
+
+.food {
+    cursor: url(../images/foodicon.png), auto;
+}
+
+.water {
+    cursor: url(../images/watericon.png), auto;
+}
+
+.bow {
+    cursor: url(../images/bowicon.png), auto;
+}
+
+.ball {
+    cursor: url(../images/happyicon.png), auto;
+}
+
+.shower {
+    cursor: url(../images/showericon.png), auto;
+}
